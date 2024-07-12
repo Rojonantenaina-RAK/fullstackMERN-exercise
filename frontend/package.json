@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rojonantenaina-RAK/exo-frontend-reactjs.git"
+    "url": "https://github.com/Rojonantenaina-RAK/fullstackMERN-exercise.git"
   },
   "keywords": [
     "frontend",
@@ -18,7 +18,7 @@
   "author": "Rojonantenaina RAKOTOARIVELO",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Rojonantenaina-RAK/exo-frontend-reactjs/issues"
+    "url": "https://github.com/Rojonantenaina-RAK/fullstackMERN-exercise/issues"
   },
-  "homepage": "https://github.com/Rojonantenaina-RAK/exo-frontend-reactjs#readme"
+  "homepage": "https://github.com/Rojonantenaina-RAK/fullstackMERN-exercise#readme"
 }
