@@ -1,0 +1,24 @@
+{
+  "name": "exercice-frontend",
+  "version": "1.0.0",
+  "description": "exercice-frontend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rojonantenaina-RAK/exo-frontend-reactjs.git"
+  },
+  "keywords": [
+    "frontend",
+    "reactjs",
+    "exercice"
+  ],
+  "author": "Rojonantenaina RAKOTOARIVELO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rojonantenaina-RAK/exo-frontend-reactjs/issues"
+  },
+  "homepage": "https://github.com/Rojonantenaina-RAK/exo-frontend-reactjs#readme"
+}

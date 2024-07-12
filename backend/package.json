@@ -1,0 +1,28 @@
+{
+  "name": "exercice-backend",
+  "version": "1.0.0",
+  "description": "exercice-backend",
+  "main": "01-server.js",
+  "scripts": {
+    "start": "node ./src/01-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rojonantenaina-RAK/exo-backend-nodejs.git"
+  },
+  "keywords": [
+    "backend",
+    "nodejs",
+    "exercice"
+  ],
+  "author": "Rojonantenaina RAKOTOARIVELO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rojonantenaina-RAK/exo-backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/Rojonantenaina-RAK/exo-backend-nodejs#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
